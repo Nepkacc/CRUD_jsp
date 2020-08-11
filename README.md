@@ -1,1 +1,1 @@
-Just to make CRUD with JSP&Tomcat7.
+Just to make a CRUD demo with JSP&Tomcat7.
